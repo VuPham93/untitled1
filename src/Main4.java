@@ -64,8 +64,8 @@ public class Main4 extends JFrame{
 
     }
 
-//    public static void main(String[] args) {
-//        Main4 myMain=new Main4();
-//        myMain.setVisible(true);
-//    }
+    public static void main(String[] args) {
+        Main4 myMain=new Main4();
+        myMain.setVisible(true);
+    }
 }
